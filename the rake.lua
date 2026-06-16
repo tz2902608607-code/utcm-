@@ -187,6 +187,9 @@ local Translations = {
     ["Supply Drop"] = "空投",
     ["Flaregun"] = "信号枪",
     ["Flare Gun"] = "信号枪",
+    ["ALER
+T
+HOLY JESUS BLOOD HOUR IS COMING NOW"] = "警告！血月即将来临",
 }
 local TextClasses = {
     TextLabel = true,
